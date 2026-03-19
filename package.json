@@ -1,0 +1,13 @@
+{
+  "name": "tree-sitter-mql5",
+  "version": "0.1.0",
+  "description": "MQL5 grammar for tree-sitter (extends tree-sitter-cpp)",
+  "main": "bindings/node",
+  "dependencies": {
+    "tree-sitter-cpp": "^0.23.4",
+    "tree-sitter-c": "^0.24.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.25.0"
+  }
+}

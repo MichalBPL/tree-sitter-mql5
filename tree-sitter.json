@@ -1,0 +1,15 @@
+{
+  "grammars": [
+    {
+      "name": "mql5",
+      "camelcase": "MQL5",
+      "scope": "source.mql5",
+      "path": ".",
+      "file-types": ["mq5", "mqh"]
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT"
+  }
+}
