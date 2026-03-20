@@ -192,6 +192,10 @@
         "named": true
       },
       {
+        "type": "color_literal",
+        "named": true
+      },
+      {
         "type": "compound_literal_expression",
         "named": true
       },
@@ -7601,6 +7605,10 @@
   {
     "type": "co_yield",
     "named": false
+  },
+  {
+    "type": "color_literal",
+    "named": true
   },
   {
     "type": "comment",
